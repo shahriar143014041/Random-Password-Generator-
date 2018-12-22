@@ -1,5 +1,6 @@
 # Random-Password-Generator-
-Assignment of Computer Security Course, Fall 2018, ULAB
+Assignment of Computer Security Course, Fall 2018, ULAB.
+
 Group Members:
 Md. Shahriar Kabir Shourav (143014041)
 Nishat Tasnim (142014032)
